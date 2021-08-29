@@ -1,7 +1,7 @@
 {
     "basic_info": {
-      "description_header": "Hi",
-      "description": "👋 I'm Davina Griss. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Dorota1997. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description_header": "Hi! 👋",
+      "description": "I'm Andrew Giang. I graduated from UCLA with a BS in Applied Math and a Specialization in Programming in 2006. I also have Master degrees in Applied Math and Education. I have 2 years of experience working in software development and 10 years of experience teaching math and computer science at a Title 1 high school in East Los Angeles. Currently, I am learning JavaScript, React, C# and .NET through a coding program at Epicodus. I am currently seeking employment as a software engineer",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -11,6 +11,29 @@
     },
     "projects": [
       {
+        "title": "Animal Shelter",
+        "startDate": "2020",
+        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "images": [
+          "images/portfolio/animal-shelter/p1.jpg",
+          "images/portfolio/animal-shelter/p2.jpg"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "Angular"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-csharp-plain",
+            "name": "C#"
+          }
+        ]
+      },{
         "title": "Animal Shelter",
         "startDate": "2020",
         "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
