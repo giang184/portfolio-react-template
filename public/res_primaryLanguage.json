@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi! 👋",
-      "description": "I'm Andrew Giang. I graduated from UCLA with a BS in Applied Math and a Specialization in Programming in 2006. I also have Master degrees in Applied Math and Education. I have 2 years of experience working in software development and 10 years of experience teaching math and computer science at a Title 1 high school in East Los Angeles. Currently, I am learning JavaScript, React, C# and .NET through a coding program at Epicodus. I am currently seeking employment as a software engineer",
+      "description": "I'm Andrew Giang. I graduated from UCLA with a BS in Applied Math and a Specialization in Programming in 2006. I also have Master degrees in Applied Math and Education. I have 2 years of experience working in software development and 10 years of experience teaching math and computer science at a Title 1 high school in East Los Angeles. Currently, I am learning JavaScript, React, Ruby and Rails through a coding program at Epicodus. I am currently seeking employment as a software engineer",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -11,130 +11,163 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "Student Progress Tracker",
+        "startDate": "2021",
+        "description": "A web application designed to track student scores on various tests over their time at the school. This implementation was inspired by a school's usage of a Google Spreadsheet for their tracking instead of an in-house website application. The end goal was to replicate and design a website that the school would consider implementing over their current spreadsheet. Our finished application was able to accomplish this goal. Click on the link next to the project name for a demo. You can login using username: admin@example.com and password: password.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/SPT/p4.JPG",
+          "images/portfolio/SPT/p1.JPG",
+          "images/portfolio/SPT/p2.JPG",
+          "images/portfolio/SPT/p3.JPG",
+          "images/portfolio/SPT/p4.JPG",
+          "images/portfolio/SPT/p5.JPG",
+          "images/portfolio/SPT/p6.JPG",
+          "images/portfolio/SPT/p7.JPG"
         ],
-        "url": "",
+        "url": "https://student-progress-trackers.herokuapp.com/",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-ruby-plain",
+            "name": "Ruby"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-rails-plain",
+            "name": "Rails"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-html5-plain",
+            "name": "html5"
+          }
+        ]
+      },
+      {
+        "title": "Minesweeper",
+        "startDate": "2021",
+        "description": "This project is a web application that run the classic game Minesweeper in three different modes.",
+        "images": [
+          "images/portfolio/minesweeper/p1.png",
+          "images/portfolio/minesweeper/p2.png",
+          "images/portfolio/minesweeper/p4.png",
+          "images/portfolio/minesweeper/p3.png"
+        ],
+        "url": "https://giang184.github.io/Minesweeper/",
+        "technologies": [
+          {
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
           }
         ]
       },{
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "StickR",
+        "startDate": "2021",
+        "description": "This application allows users to create an account and upload photos to their account. Normal users would have access to upload, edit, and delete photos. Admin users can view and delete users and their photos from the database.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/stickr/p2.png",
+          "images/portfolio/stickr/p1.png",
+          "images/portfolio/stickr/p5.png",
+          "images/portfolio/stickr/p3.png",
+          "images/portfolio/stickr/p4.png"
         ],
-        "url": "",
+        "url": "https://ruby-rails-stickr.herokuapp.com/",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-ruby-plain",
+            "name": "Ruby"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-rails-plain",
+            "name": "Rails"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-html5-plain",
+            "name": "HTML"
           }
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "title": "Conway's Game of Life",
+        "startDate": "2021",
+        "description": "This is my implementation of Conway's Game of Life. This is a solo side project that I worked for fun and for practice with JavaScript, HTML, and CSS. Currently, I have only 4 preset patterns. I intend to add a few more soon. The application will allow users to dictate their desired number of iterations and iterative speed.",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/portfolio/conway/p1.png",
+          "images/portfolio/conway/p2.png",
+          "images/portfolio/conway/p3.png",
+          "images/portfolio/conway/p4.JPG",
+          "images/portfolio/conway/p5.JPG"
         ],
-        "url": "https://github.com",
+        "url": "https://giang184.github.io/Conway-Game-of-Life/",
         "technologies": [
-          {
-            "class": "devicon-react-original",
-            "name": "React"
-          },
           {
             "class": "devicon-javascript-plain",
-            "name": "JavaScript"
+            "name": "Javascript"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
           }
         ]
       },
+      
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "Cocktail Cats",
+        "startDate": "2021",
+        "description": "This project make use of different public APIs to randomly generate some cards featuring cats and mixed drinks. When you hover over each card, the card flips over to show a detail description of the cat's favorite drinks (including recipe and mixing instructions)",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/cats/p1.png",
+          "images/portfolio/cats/p4.png",
+          "images/portfolio/cats/p2.png",
+          "images/portfolio/cats/p3.png"
         ],
-        "url": "https://github.com",
+        "url": "https://giang184.github.io/Cats-Mixing-Drinks-API/",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-html5-plain",
+            "name": "HTML"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-css3-plain",
+            "name": "CSS"
           }
         ]
-      }
+      }      
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Los Altos High School",
+        "title": "Math and Computer Science Teacher",
+        "years": "2011 - 2021",
         "mainTech": [
-          "Angular 8/9/10"
+          "Java"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "Java", "Desmos CL", "CSAwesome"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "MeridianLink",
+        "title": "Software Automation Engineer",
+        "years": "2007 - 2010",
         "mainTech": [
-          "Angular 7/8"
+          "Visual Basic for Applications"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "VBA", "Excel"
         ]
       }
     ]
