@@ -111,6 +111,7 @@ header h1 {
 #about {
 	background: rgb(255, 252, 247);
 	overflow: hidden;
+	font-size: 12px;
 }
 
 #about h1 {
@@ -173,7 +174,7 @@ header h1 {
 
 .polaroid img {
 	display: block;
-	max-width: 200px;
+	// max-width: 200px;
 }
 
 .polaroid span {

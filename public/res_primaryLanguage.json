@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi! 👋",
-      "description": "I'm Andrew Giang. I graduated from UCLA with a BS in Applied Math and a Specialization in Programming in 2006. I also have Master degrees in Applied Math and Education. I have 2 years of experience working in software development and 10 years of experience teaching math and computer science at a Title 1 high school in East Los Angeles. Currently, I am learning JavaScript, React, Ruby and Rails through a coding program at Epicodus. I am currently seeking employment as a software engineer",
+      "description": "I'm Andrew Giang. I have an entensive background in analytics with a BS and Master degrees in computational applied mathematics. I have 2 years of experience working in software development and 10 years of experience teaching math and computer science at a Title 1 high school in East Los Angeles. Currently, I am learning JavaScript, React, Ruby on Rails through a coding program at Epicodus. I am currently seeking full time employment as a software engineer",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -149,11 +149,22 @@
     ],
     "experience": [
       {
+        "company": "Epicodus Coding Program",
+        "title": "Student",
+        "years": "2021",
+        "mainTech": [
+          "Full Stack Web Development"
+        ],
+        "technologies": [
+          "JavaScript", "React", "Ruby on Rails"
+        ]
+      },
+      {
         "company": "Los Altos High School",
-        "title": "Math and Computer Science Teacher",
+        "title": "High School Teacher",
         "years": "2011 - 2021",
         "mainTech": [
-          "Java"
+          "Computer Science", "Math"
         ],
         "technologies": [
           "Java", "Desmos CL", "CSAwesome"
@@ -164,10 +175,10 @@
         "title": "Software Automation Engineer",
         "years": "2007 - 2010",
         "mainTech": [
-          "Visual Basic for Applications"
+          "Software Development"
         ],
         "technologies": [
-          "VBA", "Excel"
+          "VBA", "Excel Programming"
         ]
       }
     ]

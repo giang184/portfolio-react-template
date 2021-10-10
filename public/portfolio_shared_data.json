@@ -19,19 +19,14 @@
     "skills": {
       "icons": [
         {
-          "name": "HTML",
-          "class": "devicon-html5-plain",
-          "level": "95"
-        },
-        {
-          "name": "CSS",
-          "class": "devicon-css3-plain",
-          "level": "95"
-        },
-        {
           "name": "JavaScript",
           "class": "devicon-javascript-plain",
           "level": "80"
+        },
+        {
+          "name": "React",
+          "class": "devicon-react-original",
+          "level": "75"
         },
         {
           "name": "Ruby",
@@ -44,18 +39,23 @@
           "level": "70"
         },
         {
-          "name": "React",
-          "class": "devicon-react-original",
-          "level": "75"
-        },
-        {
           "name": "Java",
           "class": "devicon-java-plain",
           "level": "65"
         },
         {
+          "name": "Firebase",
+          "class": "devicon-firebase-plain",
+          "level": "95"
+        },
+        {
           "name": "Bootstrap",
           "class": "devicon-bootstrap-plain",
+          "level": "85"
+        },
+        {
+          "name": "PostgresSQL",
+          "class": "devicon-postgresql-plain",
           "level": "85"
         },
         {
