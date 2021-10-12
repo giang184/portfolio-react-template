@@ -11,6 +11,44 @@
     },
     "projects": [
       {
+        "title": "Credit Card Suggestor",
+        "startDate": "2021",
+        "description": "A web application that will allow you to manage your personal wallet of credit cards. You first need to create an account with an email and password. Once signed in, you can add cards to your personal wallet in two different ways. You can either choose from a list of popular credit cards or add custom cards with their cash back rewards. With your wallet set up, you can use the suggest tool to sort your cards according to a selected category.",
+        "images": [
+          "images/portfolio/CCSuggestor/1.JPG",
+          "images/portfolio/CCSuggestor/2.JPG",
+          "images/portfolio/CCSuggestor/2b.JPG",
+          "images/portfolio/CCSuggestor/3.JPG",
+          "images/portfolio/CCSuggestor/4.JPG",
+          "images/portfolio/CCSuggestor/5a.JPG",
+          "images/portfolio/CCSuggestor/5.JPG"
+
+        ],
+        "url": "https://ccsuggestor.com/",
+        "technologies": [
+          {
+            "class": "devicon-react-plain",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "javascript"
+          },
+          {
+            "class": "devicon-firebase-plain",
+            "name": "Firebase Services"
+          },  
+          {
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
+          },
+          {
+            "class": "devicon-npm-original-wordmark",
+            "name": "npm"
+          }
+        ]
+      },
+      {
         "title": "Student Progress Tracker",
         "startDate": "2021",
         "description": "A web application designed to track student scores on various tests over their time at the school. This implementation was inspired by a school's usage of a Google Spreadsheet for their tracking instead of an in-house website application. The end goal was to replicate and design a website that the school would consider implementing over their current spreadsheet. Our finished application was able to accomplish this goal. Click on the link next to the project name for a demo. You can login using username: admin@example.com and password: password.",
@@ -35,8 +73,12 @@
             "name": "Rails"
           },
           {
-            "class": "devicon-html5-plain",
-            "name": "html5"
+            "class": "devicon-postgresql-plain",
+            "name": "PostgreSQL"
+          },
+          {
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
           }
         ]
       },
@@ -57,12 +99,16 @@
             "name": "Javascript"
           },
           {
-            "class": "devicon-html5-plain",
-            "name": "HTML"
+            "class": "devicon-jquery-plain",
+            "name": "Jquery"
           },
           {
             "class": "devicon-css3-plain",
             "name": "CSS"
+          },
+          {
+            "class": "devicon-npm-original-wordmark",
+            "name": "npm"
           }
         ]
       },{
@@ -87,8 +133,12 @@
             "name": "Rails"
           },
           {
-            "class": "devicon-html5-plain",
-            "name": "HTML"
+            "class": "devicon-postgresql-plain",
+            "name": "PostgreSQL"
+          },
+          {
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
           }
         ]
       },
@@ -97,7 +147,7 @@
         "startDate": "2021",
         "description": "This is my implementation of Conway's Game of Life. This is a solo side project that I worked for fun and for practice with JavaScript, HTML, and CSS. Currently, I have only 4 preset patterns. I intend to add a few more soon. The application will allow users to dictate their desired number of iterations and iterative speed.",
         "images": [
-          "images/portfolio/conway/p1.png",
+          "images/portfolio/conway/p1.JPG",
           "images/portfolio/conway/p2.png",
           "images/portfolio/conway/p3.png",
           "images/portfolio/conway/p4.JPG",
@@ -110,12 +160,16 @@
             "name": "Javascript"
           },
           {
-            "class": "devicon-html5-plain",
-            "name": "HTML"
+            "class": "devicon-jquery-plain",
+            "name": "Jquery"
           },
           {
             "class": "devicon-css3-plain",
             "name": "CSS"
+          },
+          {
+            "class": "devicon-npm-original-wordmark",
+            "name": "npm"
           }
         ]
       },
@@ -137,12 +191,16 @@
             "name": "Javascript"
           },
           {
-            "class": "devicon-html5-plain",
-            "name": "HTML"
+            "class": "devicon-jquery-plain",
+            "name": "Jquery"
           },
           {
             "class": "devicon-css3-plain",
             "name": "CSS"
+          },
+          {
+            "class": "devicon-npm-original-wordmark",
+            "name": "npm"
           }
         ]
       }      
