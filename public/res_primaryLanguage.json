@@ -207,6 +207,17 @@
     ],
     "experience": [
       {
+        "company": "Illustrative Mathematics",
+        "title": "Software Engineer Intern",
+        "years": "2021",
+        "mainTech": [
+          "Full Stack Software Development"
+        ],
+        "technologies": [
+          "Ruby on Rails", "Slim Templating", "Bootstrap"
+        ]
+      },
+      {
         "company": "Epicodus Coding Program",
         "title": "Student",
         "years": "2021",
